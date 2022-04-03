@@ -1,4 +1,4 @@
-git-module-1
+#git-module-1
 - https://learngitbranching.js.org - пройти перші 4 кроки з розділу "Introduction Sequence"
 - Створити репозиторій `today-i-learned` на Github
 - В репозиторії створити файл `readme.md` з конспектом заняття
